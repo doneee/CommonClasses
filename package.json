@@ -1,0 +1,10 @@
+{
+  "name": "CommonClasses",
+  "version": "1.0.0",
+  "description": "Collection of JS classes",
+  "main": "index.js",
+  "repository": "https://github.com/doneee/CommonClasses.git",
+  "author": "Donny Swany <donnyswany@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
